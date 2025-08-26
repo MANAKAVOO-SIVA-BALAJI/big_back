@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+employee_data.csv
+practise.doc
+uv.lock
+.env
+
+.python-version
+
+crud.py
+insert.py
+
+seeder.py
+test.py
+
+
+
